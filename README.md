@@ -393,7 +393,7 @@ https://github.com/StegTechHub/tooling.git
    ```
 
 ---
-![screenhot](https://github.com/Prince-Tee/DevOps-Tooling-Website-Solution/blob/main/screenshots%20from%20my%20local%20env/wb%20%20Update%20the%20database%20connection%20setting%20functions%20php.PNG)
+![screenhot](https://github.com/Prince-Tee/DevOps-Tooling-Website-Solution/blob/main/screenshots%20from%20my%20local%20env/creating%20webaccess%20a%20my%20user.PNG)
 
 ## **Verification**
 
@@ -407,7 +407,7 @@ https://github.com/StegTechHub/tooling.git
 ![screenshot](https://github.com/Prince-Tee/DevOps-Tooling-Website-Solution/blob/main/screenshots%20from%20my%20local%20env/final%20output.PNG)
 
 You should see the tooling website. Confirm that you can log in with the admin credentials .
-![screenshot](https://github.com/Prince-Tee/DevOps-Tooling-Website-Solution/blob/main/screenshots%20from%20my%20local%20env/final%20output.PNG)
+![screenshot](https://github.com/Prince-Tee/DevOps-Tooling-Website-Solution/blob/main/screenshots%20from%20my%20local%20env/access%20my%20web%20server.PNG)
 
 
 ---
